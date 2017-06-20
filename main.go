@@ -7,7 +7,7 @@ import (
     "fmt"
     "bytes"
 
-    "github.com/Jumpscale/go-raml/nbd-ardb-gateway/goraml"
+    "github.com/zero-os/hub-direct-server/goraml"
 
     "github.com/gorilla/mux"
     "gopkg.in/validator.v2"
